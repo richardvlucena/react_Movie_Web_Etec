@@ -1,6 +1,6 @@
 import './App.css';
 
-import Main from './pages/Main/a';
+import Main from './pages/Main/register';
 
 
 function App() {
